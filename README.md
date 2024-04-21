@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Various Programming Projects**
 
-- 🌱 I’m currently learning **JAVA, Flutter, and others....**
-
-- 💬 Ask me about **Web Development and programming**
+- 💬 Ask me about **Software Development and programming**
 
 - 📫 How to reach me **samuelolubukun@gmail.com**
 

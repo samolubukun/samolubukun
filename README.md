@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Various Programming Projects**
 
-- 💬 Ask me about **Software/Web Development, Data Analysis and programming**
+- 💬 Ask me about **Software/Web Development| Data Science| AI/ML **
 
 - 📫 How to reach me **samuelolubukun@gmail.com**
 

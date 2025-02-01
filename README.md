@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olubukun Samuel</h1>
-<h3 align="center">Full Stack Developer and Programmer.</h3>
+<h3 align="center">Programmer | Software Developer | Full Stack Web Developer | Data Scientist & AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samolubukun&label=Profile%20views&color=0e75b6&style=flat" alt="samolubukun" /> </p>
 

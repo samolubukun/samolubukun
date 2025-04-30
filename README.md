@@ -20,7 +20,7 @@
 ## <div align="center">🚀 About Me</div>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5WwT9mMnqGAAAAAd/coding-programmer.gif" />
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 </p>
 
 - 🔭 I'm currently working on **Various Programming Projects**

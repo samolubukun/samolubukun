@@ -42,7 +42,7 @@
 
 <p align="center">
 
-  <img align="right" alt="Coding" height="300" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+  <img align="right" alt="Coding" height="300" width="150" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 </p>
 

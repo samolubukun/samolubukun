@@ -77,6 +77,9 @@
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="45" height="45"/>
     </a>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="45" height="45"/>
+    </a>
   </p>
 </details>
 
@@ -108,6 +111,15 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="45" height="45"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="45" height="45"/>
+    </a>
+    <a href="https://www.prisma.io/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="45" height="45"/>
     </a>
   </p>
 </details>
@@ -164,7 +176,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/samolubukun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>s
+  </a>
   <a href="mailto:samuelolubukun@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>

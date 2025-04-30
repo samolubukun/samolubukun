@@ -30,9 +30,8 @@
 - ⚡ Fun fact: **Still Learning & Growing Every Day**
 
 <br/>
-<br/>
 
-## <div align="center">🛠️ Tech Stack</div>
+<div align="center">🛠️ Tech Stack</div>
 
 <details open>
   <summary><b>💻 Languages</b></summary>

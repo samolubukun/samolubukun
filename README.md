@@ -31,7 +31,7 @@
 
 <br/>
 
-## <div align="center">🛠️ Tech Stack</div>
+## <h2 align="center">🛠️ Tech Stack</h2>
 
 <details open>
   <summary><b>💻 Languages</b></summary>

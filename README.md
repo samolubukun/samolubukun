@@ -1,4 +1,4 @@
-<div align="center">👨‍💻 OLUBUKUN SAMUEL</div>
+<h1 align="center">👨‍💻 OLUBUKUN SAMUEL</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Data+Scientist;AI%2FML+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />

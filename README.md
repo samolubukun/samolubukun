@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 OLUBUKUN SAMUEL</div>
+<div align="center">👨‍💻 OLUBUKUN SAMUEL</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Data+Scientist;AI%2FML+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 ## <div align="center">🚀 About Me</div>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5WwT9mMnqGAAAAAd/coding-programmer.gif" />
 </p>
 
 - 🔭 I'm currently working on **Various Programming Projects**
@@ -162,7 +162,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samolubukun&show_icons=true&theme=tokyonight&hide_border=true" alt="Olubukun's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=tokyonight&hide_border=true" alt="Olubukun's Language Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" alt="Olubukun's Language Stats" height="170"/>
 </div>
 
 <div align="center">

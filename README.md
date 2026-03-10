@@ -14,27 +14,33 @@
 Building intelligent systems at the intersection of **software engineering** and **machine learning** — from data pipelines to production-ready AI applications.
 
 ```
-Languages    →  Python · JavaScript · TypeScript · Java · PHP
-Frontend     →  React · Next.js · Tailwind CSS
-Backend      →  Node.js · Express · Django · FastAPI
-Databases    →  PostgreSQL · MongoDB · MySQL · SQLite
-AI/ML        →  TensorFlow · PyTorch · Scikit-learn · Jupyter
-DevOps       →  GCP · Git · Docker
+Languages       →  Python · JavaScript · TypeScript · PHP · Java · SQL · HTML/CSS
+
+Frameworks      →  React · Next.js · Node.js · Express.js · FastAPI · Flask
+                   Django · Tailwind CSS · Bootstrap
+
+AI & Data       →  Generative AI (LLMs) · Deep Learning · NLP · Computer Vision
+                   Predictive Modeling · Prompt Engineering · LangChain
+                   OpenAI · Gemini · Hugging Face · Vector Databases
+                   TensorFlow · PyTorch · Scikit-learn
+
+Tools           →  Git · GitHub · Docker · GCP · OCI · VS Code · Jupyter
+                   MongoDB · PostgreSQL · MySQL
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samolubukun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&cache_seconds=1800" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samolubukun&theme=github_dark" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=1800" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samolubukun&theme=github_dark" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samolubukun&theme=transparent&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="155"/>
+<img src="https://streak-stats.demolab.com/?user=samolubukun&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="155"/>
 
 </div>
 

@@ -32,9 +32,9 @@ Tools           →  Git · GitHub · Docker · GCP · OCI · VS Code · Jupyter
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samolubukun&theme=github_dark" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samolubukun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samolubukun&theme=github_dark" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="160"/>
 
 </div>
 

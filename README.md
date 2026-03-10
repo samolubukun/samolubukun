@@ -25,8 +25,17 @@ Building intelligent systems at the intersection of **software engineering** and
 
 **AI & Data Science**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
-&nbsp;`LLMs` &nbsp;`LangChain` &nbsp;`OpenAI` &nbsp;`Gemini` &nbsp;`Hugging Face` &nbsp;`NLP` &nbsp;`Computer Vision` &nbsp;`Vector DBs`
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-58a6ff?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-ff6e96?style=flat-square&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6e40c9?style=flat-square&logoColor=white)
 
 **Tools & Platforms**
 
@@ -43,12 +52,6 @@ Building intelligent systems at the intersection of **software engineering** and
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samolubukun&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/samolubukun/samolubukun/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 

@@ -25,8 +25,8 @@ Building intelligent systems at the intersection of **software engineering** and
 
 **AI & Data Science**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)

@@ -11,7 +11,7 @@
 
 ---
 
-Building intelligent systems at the intersection of **software engineering** and **artificial intelligence** — turning complex problems into elegant, scalable solutions.
+Building intelligent systems at the intersection of **software engineering** and **artificial intelligence** - turning complex problems into elegant, scalable solutions.
 
 ---
 

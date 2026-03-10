@@ -13,30 +13,26 @@
 
 Building intelligent systems at the intersection of **software engineering** and **machine learning** — from data pipelines to production-ready AI applications.
 
-```
-Languages       →  Python · JavaScript · TypeScript · PHP · Java · SQL · HTML/CSS
-
-Frameworks      →  React · Next.js · Node.js · Express.js · FastAPI · Flask
-                   Django · Tailwind CSS · Bootstrap
-
-AI & Data       →  Generative AI (LLMs) · Deep Learning · NLP · Computer Vision
-                   Predictive Modeling · Prompt Engineering · LangChain
-                   OpenAI · Gemini · Hugging Face · Vector Databases
-                   TensorFlow · PyTorch · Scikit-learn
-
-Tools           →  Git · GitHub · Docker · GCP · OCI · VS Code · Jupyter
-                   MongoDB · PostgreSQL · MySQL
-```
-
 ---
 
-<div align="center">
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=samolubukun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="160"/>
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,php,java,html,css&theme=dark)](https://skillicons.dev)
 
-</div>
+**Frameworks & Backend**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+
+**AI & Data Science**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
+&nbsp;`LLMs` &nbsp;`LangChain` &nbsp;`OpenAI` &nbsp;`Gemini` &nbsp;`Hugging Face` &nbsp;`NLP` &nbsp;`Computer Vision` &nbsp;`Vector DBs`
+
+**Tools & Platforms**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,gcp,mongodb,postgresql,mysql,vscode,jupyter&theme=dark)](https://skillicons.dev)
+
+---
 
 <div align="center">
 
@@ -47,6 +43,12 @@ Tools           →  Git · GitHub · Docker · GCP · OCI · VS Code · Jupyter
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samolubukun&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samolubukun/samolubukun/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 

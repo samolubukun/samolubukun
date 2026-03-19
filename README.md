@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olubukun Samuel
+# SAMUEL OLUBUKUN
 ### Full Stack AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samolubukun)

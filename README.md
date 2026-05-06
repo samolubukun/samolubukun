@@ -17,7 +17,7 @@ Building intelligent systems at the intersection of **software engineering** and
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,php,java,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,php,rust,java,html,css&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Backend**
 

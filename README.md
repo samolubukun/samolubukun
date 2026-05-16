@@ -21,40 +21,44 @@
 
 </div>
 
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Blue Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,100:3b82f6&height=3" width="100%"/>
 
 <br>
 
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p><i>Building intelligent systems at the intersection of <b>software engineering</b> and <b>artificial intelligence</b><br>turning complex problems into elegant, scalable solutions.</i></p>
+  <p>I'm Samuel Olubukun, a Full-Stack AI/ML Engineer. My expertise spans specializing in frontend and backend development, data science, and applied artificial intelligence. I build modern software systems that integrate AI models, intelligent agents, and automation workflows into real-world applications.</p>
 </div>
 
 <br>
 
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Blue Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,100:3b82f6&height=3" width="100%"/>
 
 <br>
 
 ## 💻 Languages
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,java,html,css&theme=dark&perline=8" />
-  </a>
-</p>
+<div align="center">
+
+| Python | JavaScript | TypeScript | PHP | Rust | Java | HTML | CSS |
+|--------|------------|------------|-----|------|------|------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> |
+
+</div>
 
 <br>
 
 ## ⚡ Frameworks & Libraries
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,tailwind,bootstrap,vue,redux&theme=dark&perline=11" />
-  </a>
-</p>
+<div align="center">
+
+| React | Next.js | Node.js | Express | FastAPI | Flask | Django | Tailwind | Bootstrap | Vue | Redux |
+|-------|---------|---------|---------|---------|-------|--------|----------|-----------|-----|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/> |
+
+</div>
 
 <br>
 
@@ -82,11 +86,13 @@
 
 ## 🗄️ Databases
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark&perline=6" />
-  </a>
-</p>
+<div align="center">
+
+| MongoDB | PostgreSQL | MySQL | Redis | Firebase | Supabase |
+|---------|------------|-------|-------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50"/> |
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
@@ -98,35 +104,34 @@
 
 ## ☁️ DevOps & Cloud
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,azure,vercel,netlify,githubactions&theme=dark&perline=8" />
-  </a>
-</p>
+<div align="center">
+
+| Docker | Kubernetes | GCP | AWS | Azure | Vercel | Netlify | GitHub Actions |
+|--------|------------|-----|-----|-------|--------|---------|----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50"/> |
+
+</div>
 
 <br>
 
 ## 🔧 Tools & IDEs
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,postman,figma,linux&theme=dark&perline=8" />
-  </a>
-</p>
+<div align="center">
+
+| Git | GitHub | VS Code | PyCharm | Jupyter | Postman | Figma | Linux |
+|-----|--------|---------|---------|---------|---------|-------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> |
+
+</div>
 
 <br>
 
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Blue Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,100:3b82f6&height=3" width="100%"/>
 
 <br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samolubukun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samolubukun&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="48%"/>
@@ -142,23 +147,8 @@
 
 <br>
 
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br>
-
-<div align="center">
-  
-  ### 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=samolubukun&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-  
-</div>
-
-<br>
-
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Blue Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,100:3b82f6&height=3" width="100%"/>
 
 <br>
 
@@ -177,11 +167,8 @@
 
 <br>
 
-
-<br>
-
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Blue Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,100:3b82f6&height=3" width="100%"/>
 
 <br>
 
@@ -190,6 +177,6 @@
   
   <br>
   
-  <h3>✨ Still learning. Still building. Every single day. ✨</h3>
+  <h3>Still learning. Still building. Every single day.</h3>
   
 </div>

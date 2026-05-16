@@ -143,19 +143,16 @@
 
 <div align="center">
 
-<br>
-
-<img src="https://img.shields.io/badge/-%E2%80%9C%20Stay%20Hungry%2C%20Stay%20Foolish%20%E2%80%9D-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF&logoColor=white" alt="quote"/>
-
-<br><br>
-
-```
-  Stay Hungry. Stay Foolish.  ── Steve Jobs
-```
-
-<sub>Still learning &nbsp;·&nbsp; Still building &nbsp;·&nbsp; Every single day</sub>
+### 💭 Philosophy
 
 <br>
+
+> <h2><i>"Stay Hungry, Stay Foolish"</i></h2>
+> <p>— Steve Jobs</p>
+
+<br>
+
+<h3>Still learning. Still building. Every single day.</h3>
 
 </div>
 

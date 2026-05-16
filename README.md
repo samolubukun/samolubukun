@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SAMUEL%20OLUBUKUN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=200&section=header&text=SAMUEL%20OLUBUKUN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+intelligent+systems;Turning+problems+into+solutions;AI+%2B+Software+Engineering" alt="Typing SVG" /></a>
@@ -164,18 +164,19 @@
 
 <div align="center">
   
-  <h3>💭 Philosophy</h3>
+  ### 💭 Philosophy
   
-  <img src="https://readme-quotes.vercel.app/api?quote=Stay%20Hungry,%20Stay%20Foolish&author=Steve%20Jobs&type=horizontal&theme=dark&animation=grow_out_in&border=true" width="600"/>
+  <blockquote>
+    <h3>
+      <i>"Stay Hungry, Stay Foolish"</i>
+    </h3>
+    <p>— Steve Jobs</p>
+  </blockquote>
   
 </div>
 
 <br>
 
-<!-- Animated Metrics -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samolubukun&theme=github_dark" width="100%"/>
-</div>
 
 <br>
 
@@ -185,15 +186,10 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:1e40af&height=100&section=footer" width="100%"/>
   
   <br>
   
   <h3>✨ Still learning. Still building. Every single day. ✨</h3>
-  
-  <p>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  </p>
   
 </div>

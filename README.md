@@ -126,7 +126,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=samolubukun&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=samolubukun&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%"/>
 </div>
 
 <br>

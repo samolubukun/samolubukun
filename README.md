@@ -219,9 +219,9 @@
 
 <br>
 
-<p><em><font size="6">"Stay Hungry, Stay Foolish"</font></em></p>
+# *"Stay Hungry, Stay Foolish"*
 
-<p>— Steve Jobs</p>
+— Steve Jobs
 
 <br>
 

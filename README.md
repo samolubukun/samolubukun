@@ -215,7 +215,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e3a8a&height=120&section=header&text=%F0%9F%92%AD%20Philosophy&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%"/>
+<p>💭 Philosophy</p>
 
 <br>
 
@@ -225,7 +225,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Still+learning+%C2%B7+Still+building+%C2%B7+Every+single+day" alt="tagline"/>
+<p><font size="5">Still learning &nbsp;·&nbsp; Still building &nbsp;·&nbsp; Every single day</font></p>
 
 <br><br>
 

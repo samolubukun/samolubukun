@@ -219,7 +219,7 @@
 
 <br>
 
-# *"Stay Hungry, Stay Foolish"*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%22Stay+Hungry%2C+Stay+Foolish%22" alt="Stay Hungry Stay Foolish"/>
 
 — Steve Jobs
 

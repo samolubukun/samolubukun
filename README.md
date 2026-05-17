@@ -215,17 +215,17 @@
 
 <br>
 
-<p>💭 Philosophy</p>
+## 💭 Philosophy
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%22Stay+Hungry%2C+Stay+Foolish%22" alt="Stay Hungry Stay Foolish"/>
+<p><em><font size="6">"Stay Hungry, Stay Foolish"</font></em></p>
 
-<p><sub>— Steve Jobs</sub></p>
+<p>— Steve Jobs</p>
 
 <br>
 
-<p><font size="5">Still learning &nbsp;·&nbsp; Still building &nbsp;·&nbsp; Every single day</font></p>
+<p><strong><font size="6">Still learning &nbsp;·&nbsp; Still building &nbsp;·&nbsp; Every single day</font></strong></p>
 
 <br><br>
 

@@ -101,6 +101,7 @@
   <img src="https://img.shields.io/badge/LLMs-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-FF6E96?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-6E40C9?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8B0000?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector%20DBs-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
@@ -214,17 +215,17 @@
 
 <br>
 
-### 💭 Philosophy
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e3a8a&height=120&section=header&text=%F0%9F%92%AD%20Philosophy&fontSize=28&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <br>
 
-## *"Stay Hungry, Stay Foolish"*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%22Stay+Hungry%2C+Stay+Foolish%22" alt="Stay Hungry Stay Foolish"/>
 
-**— Steve Jobs**
+<p><sub>— Steve Jobs</sub></p>
 
 <br>
 
-<sub>Still learning &nbsp;·&nbsp; Still building &nbsp;·&nbsp; Every single day</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Still+learning+%C2%B7+Still+building+%C2%B7+Every+single+day" alt="tagline"/>
 
 <br><br>
 

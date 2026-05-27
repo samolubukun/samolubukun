@@ -58,6 +58,7 @@
 ## ⚡ Frameworks & Libraries
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
@@ -68,10 +69,13 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>

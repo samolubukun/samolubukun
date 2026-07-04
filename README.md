@@ -190,7 +190,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=samolubukun&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="100%"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=samolubukun&theme=radical)
 </div>
 
 <br>

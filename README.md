@@ -190,7 +190,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samolubukun&theme=radical)
+[![GitHub Streak](https://streak-stats.vercel.app?user=samolubukun&theme=radical)](https://git.io/streak-stats)
 </div>
 
 <br>

@@ -139,21 +139,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/>
+<img 
+src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>

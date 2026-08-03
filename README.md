@@ -10,7 +10,8 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
 
 ## AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,huggingface&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-FF6E96?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-6E40C9?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Vector%20DBs-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,huggingface,langchain,chatgpt,ollama,streamlit,jupyter,pandas,numpy,sklearn&theme=dark" />&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/43993af930ecf53051df2cb1bb7a556219833a10/icons/Claude.svg" height="48" alt="Claude" />
 
 ## Tools I Use
 

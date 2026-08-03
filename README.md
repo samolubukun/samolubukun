@@ -22,7 +22,7 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" alt="linkedin" />
 </a>&nbsp;
 <a href="https://x.com/samuelolubukun" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="30" alt="x" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" height="30" alt="x" />
 </a>&nbsp;
 <a href="mailto:samuelolubukun@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="30" alt="gmail" />

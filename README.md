@@ -10,12 +10,7 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
 
 ## AI & Machine Learning
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,huggingface&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-FF6E96?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-6E40C9?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Vector%20DBs-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 ## Tools I Use
 
@@ -39,4 +34,4 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=samolubukun&label=Profile%20Views&color=12&style=flat)](https://github.com/samolubukun)
+[![](https://komarev.com/ghpvc/?username=samolubukun&label=Profile%20Views&color=58A6FF&style=flat)](https://github.com/samolubukun)

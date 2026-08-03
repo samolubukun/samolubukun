@@ -10,7 +10,7 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
 
 ## AI & Machine Learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface,langchain,ollama,streamlit,jupyter,pandas,numpy,seaborn,crewai,gemini,matplotlib,duckdb,wandb,chatgpt&theme=dark" />&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface,langchain,ollama,streamlit,jupyter,pandas,numpy,seaborn,crewai,gemini,matplotlib,duckdb,wandb,chatgpt&theme=dark&perline=18" />&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/43993af930ecf53051df2cb1bb7a556219833a10/icons/Claude.svg" height="48" alt="Claude" />
 
 ## Tools I Use

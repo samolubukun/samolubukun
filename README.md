@@ -6,11 +6,11 @@ Full Stack Engineer who builds modern software powered by artificial intelligenc
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,rust,java,react,nextjs,nodejs,express,fastapi,flask,django,tailwind,mongodb,postgresql,mysql,redis,firebase,docker,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,php,rust,java,react,nextjs,nodejs,express,fastapi,flask,django,tailwind,mongodb,postgresql,mysql,redis,firebase,docker,gcp&theme=dark&perline=7" />
 
 ## AI & Machine Learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,huggingface,langchain,crewai,opencv,jupyter,ollama,streamlit,duckdb,wandb,pinecone&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,huggingface,langchain,crewai,opencv,jupyter,ollama,streamlit,duckdb,wandb,pinecone&theme=dark&perline=7" />
 
 ## Tools I Use
 

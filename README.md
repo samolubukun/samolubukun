@@ -2,7 +2,7 @@
 
 ## Hey, I'm Samuel 👋
 
-Full Stack Engineer who builds modern software powered by artificial intelligence. From intuitive user interfaces and scalable backend services to machine learning models and LLM-powered applications, I enjoy creating end-to-end products that are reliable, efficient, and designed to solve meaningful real-world challenges.
+Full Stack AI Engineer who builds modern software powered by artificial intelligence. From intuitive user interfaces and scalable backend services to machine learning models and LLM-powered applications, I enjoy creating end-to-end products that are reliable, efficient, and designed to solve meaningful real-world challenges.
 
 ## Tech Stack
 
